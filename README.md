@@ -1,7 +1,9 @@
 # Bolt_Competetion
 
 ## Author:
-
+ 1. Kim Le
+ 2. Shiyang Zhang
+ 3. Siya Ulsha
 
 
 ## Google Folder:
